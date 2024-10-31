@@ -1,0 +1,36 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.printedly-top-menu-item {
+   display: block;
+   height: 38px !important;
+   width: 23px !important;
+   background: url(icon-grey.png) no-repeat 11% 27%;
+ }
+
+ .welcome-panel .welcome-cart:before {
+     content: "\f174";
+     top: -3px;
+ }
+ .welcome-panel .welcome-categories:before {
+     content: "\f325";
+     top: -3px;
+ }
+ .welcome-panel .welcome-clip-art:before {
+     content: "\f233";
+     top: -3px;
+ }
+ .welcome-panel .welcome-pricing:before {
+     content: "\f185";
+     top: -3px;
+ }
+ .welcome-panel .welcome-delivery:before {
+     content: "\f508";
+     top: -3px;
+ }
+ .welcome-panel .welcome-orders:before {
+     content: "\f513";
+     top: -3px;
+ }
